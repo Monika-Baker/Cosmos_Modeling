@@ -1,4 +1,4 @@
-[![medRxiv_badge](https://img.shields.io/badge/medRxiv-2026.02.23.26346921-blue)](https://doi.org/10.64898/2026.02.23.26346921)
+[![medRxiv_badge](https://img.shields.io/badge/medRxiv-DOI:2026.02.23.26346921-blue)](https://doi.org/10.64898/2026.02.23.26346921)
 
 # Cosmos Modeling
 
