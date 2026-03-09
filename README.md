@@ -1,3 +1,5 @@
+[![medRxiv_badge](https://img.shields.io/badge/medRxiv-2026.02.23.26346921-blue)](https://doi.org/10.64898/2026.02.23.26346921)
+
 # Cosmos Modeling
 
 This repository provides the scripts required to reproduce the modeling results presented in the manuscript _Precision stratification of risk for suicidal behavior in people with bipolar depression_ (de Lacy et al., 2026). The study cohort consists of patients in the Cosmos database who were diagnosed with bipolar depression between 2016 and 2024. The predictive outcome is 30-day risk of suicidal behavior within this cohort.   
